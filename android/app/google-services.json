@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "276133920893",
+    "project_id": "chatly-822f4",
+    "storage_bucket": "chatly-822f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276133920893:android:07c9ac520b7927c476b114",
+        "android_client_info": {
+          "package_name": "com.example.chatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276133920893-db9kpft3lblhcq4fdh8phds9j6u77pv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatly",
+            "certificate_hash": "858e9e3befe98fc4889ae1eb306e3d1959c84ad7"
+          }
+        },
+        {
+          "client_id": "276133920893-jfleqh9hm6prbne1pejf0qev980f536g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIzngnDh_3wCmwn7B0p79q7uO4nKWwdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276133920893-jfleqh9hm6prbne1pejf0qev980f536g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276133920893-sdn5eenpi93ti846hi9qu3ktnv1n0uj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
