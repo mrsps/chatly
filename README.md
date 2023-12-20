@@ -3,7 +3,6 @@
 
 
 Developed a feature-rich, real-time chat application, Chatly, using Flutter and Firebase technologies.
-
 Integrated Google account authentication for streamlined login process.
 
 Implemented advanced chat functionalities including last seen status, blue tick message delivery confirmation, and message timestamp display.
